@@ -21,7 +21,7 @@ import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.JTextField;
 
-public class Tela extends JFrame implements ActionListener, WindowListener, KeyListener {
+public class Tela extends JFrame implements ActionListener, WindowListener{
 
     protected Dimension dFrame, dLabel, dTextField, dButton, dTextArea;
     protected JTextField txtVisor;
